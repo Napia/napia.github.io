@@ -1,0 +1,28 @@
+{
+  "name": "napia.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/napia/napia.github.io.git"
+  },
+  "keywords": [
+    "Garten",
+    "Fermentation",
+    "fermentieren",
+    "Gemüse"
+  ],
+  "author": "Nadine Helwig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/napia/napia.github.io/issues"
+  },
+  "devDependencies": {
+    "browser-sync": "2.24.5",
+    "gulp": "^3.9.1"
+  }
+}
